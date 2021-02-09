@@ -1,3 +1,3 @@
 # toy_ds_project
-project creation date: february 9, 2021
-author: Eric Dika
+# Project Creation Date: february 9, 2021
+# Author: Eric Dika
